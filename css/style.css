@@ -1,0 +1,134 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.img{
+    width: 100%;
+}
+
+.container{
+    width: 80% ;
+   margin: auto;
+}
+
+.clr{
+    clear: both;
+}
+
+.Ballon {
+    padding: 70px 0;
+    background-color: azure;
+}
+
+.Ballon .about-ballon {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.Ballon .about-text {
+    margin-top: 70px;
+    font-size: medium;
+}
+
+.Ballon .about-text p {
+   margin-top: 35px;
+   font-size: 17px;
+}
+
+.Ballon .about-text h2 {
+    font-size: x-large;
+ }
+
+.player {
+    padding: 70px 0;
+    background-color: floralwhite;
+}
+
+.player .about-player {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.player .about-text {
+    margin-top: 70px;
+}
+
+.player .about-text p {
+   margin-top: 35px;
+   font-size: 17px;
+}
+
+.player .about-text h2 {
+    font-size: x-large;
+ }
+
+ .zamalek {
+   background-color: aliceblue;
+    padding: 70px 0;
+}
+
+.zamalek .header h3{
+    text-align: center;
+    font-size: x-large;
+}
+
+.zamalek .header p{
+    margin-top: 20px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.zamalek .club {
+   width: 33.333%;
+   text-align: center;
+   float: left;
+   padding: 20px; 
+   margin-top: 20px;
+}
+
+.zamalek .club h5 {
+    margin: 10px 0;
+    font-size: 20px;
+}
+
+.zamalek .club p {
+    font-size: 17px;
+    margin-top: 20px;
+}
+
+.player {
+    padding: 70px 0;
+    background-color: ghostwhite;
+}
+
+.location {
+    padding: 70px 0;
+    background-color: floralwhite;
+}
+
+.location .about-location {
+    width: 50%;
+    float: left;
+    padding: 20px;
+}
+
+.location .about-text {
+    margin-top: 40px;
+}
+
+.location .about-text p {
+   margin-top: 35px;
+   font-size: 17px;
+}
+
+.location .about-text h2 {
+    font-size: xx-large;
+ }
